@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 <br>
-  <div style='aling: left;' >
-    ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
-  </div
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
 <br>
-  <div style='aling:left;'>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlasDoruk)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlasDoruk)](https://github.com/anuraghazra/github-readme-stats)
+

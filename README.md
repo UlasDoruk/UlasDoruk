@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... udk97@hotmail.com
 
-(https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)

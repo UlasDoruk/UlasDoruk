@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />
 
 <br />
-
-[vsCode]: https://code.visualstudio.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-
 <br />
 <br />
 

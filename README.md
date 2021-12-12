@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [python]: https://www.python.org/
 
 <br>
-
+<br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
 
 <br>

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 
-
+<br>
 [vsCode]: https://code.visualstudio.com/
 [github]: https://github.com/IbrahimTalha0
 [python]: https://www.python.org/

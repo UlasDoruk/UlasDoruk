@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Back-End
-- 🌱 I’m currently learning ... JavaScript,Node.js
-- 👯 I’m looking to collaborate on ... Anybody. Who begin of the learn to Back-End techs.
+- 🔭 I’m currently working on ... Back-End techs.
+- 🌱 I’m currently learning ... JavaScript, Node.js
+- 👯 I’m looking to collaborate on ... Anybody. Who begin learning to Back-End techs.
 - 🤔 I’m looking for help with ... HTML - CSS - Javascript - Node.js
 - 📫 How to reach me: ... udk97@hotmail.com
 

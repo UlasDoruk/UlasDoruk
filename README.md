@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... udk97@hotmail.com
 
 <br>
-![Visitors](https://komarev.com/ghpvc/?username=UlasDoruk)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <br>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)

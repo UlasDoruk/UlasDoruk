@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... udk97@hotmail.com
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
 
@@ -31,4 +29,5 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
+<img align="left" alt="Django" width="26px" src="https://www.pngrepo.com/png/353657/512/django-icon.png" />
 <br>

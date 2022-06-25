@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
-<img align="left" alt="Django" width="26px" src="https://www.pngrepo.com/png/353657/512/django-icon.png" />
+<img align="left" alt="React" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
 <br>

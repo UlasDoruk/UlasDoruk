@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" alt="LOTRdth="100%"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
 
 
 <!--

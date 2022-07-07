@@ -2,7 +2,7 @@
 
 <img width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
 
-<br><br>
+<hr>
 
 
 <!--
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... JavaScript, Node.jsi React.js
 - 📫 How to reach me: ... udk97@hotmail.com
 
+<hr>
 <br>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)

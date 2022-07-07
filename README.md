@@ -1,5 +1,5 @@
 ### Hello there 👋
-  <div class="container" aling="center">
+  <div dir="auto" aling="center">
   <img width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
   <div/>
 

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Web Dev. Techs.
-- 🌱 I’m currently learning ... JavaScript, Node.jsi React.js
+- 🌱 I’m currently learning ... JavaScript, Node.js, React.js
 - 📫 How to reach me: ... udk97@hotmail.com
 
 <hr>

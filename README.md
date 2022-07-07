@@ -1,6 +1,7 @@
 ### Hello there 👋
-
-<img width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
+  <div class="container" aling="center">
+  <img width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
+  <div/>
 
 <hr>
 

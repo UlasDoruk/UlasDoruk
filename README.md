@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
+<br><br>
 
 
 <!--

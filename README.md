@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/61tYloUgq1eOk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gandalf-61tYloUgq1eOk">via GIPHY</a></p>
+<img width="26px" src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" />
+
 <br><br>
 
 

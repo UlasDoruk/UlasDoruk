@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 👋
+
+<img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" alt="LOTRdth="100%">
+
 
 <!--
 **UlasDoruk/UlasDoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,10 +9,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Back-End techs.
-- 🌱 I’m currently learning ... JavaScript, Node.js
-- 👯 I’m looking to collaborate on ... Anybody. Who begin learning to Back-End techs.
-- 🤔 I’m looking for help with ... HTML - CSS - Javascript - Node.js
+- 🔭 I’m currently working on ... Web Dev. Techs.
+- 🌱 I’m currently learning ... JavaScript, Node.jsi React.js
 - 📫 How to reach me: ... udk97@hotmail.com
 
 <br>

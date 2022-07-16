@@ -12,14 +12,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Web Dev. Techs.
+<div align="center"> - 🔭 I’m currently working on ... Web Dev. Techs.
 - 🌱 I’m currently learning ... JavaScript, Node.js, React.js
 - 📫 How to reach me: ... udk97@hotmail.com
+</div>
 
 <hr>
 <br>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
+<div align="center">![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)</div>
 
 <br>
 

@@ -12,9 +12,9 @@
 Here are some ideas to get you started:
 -->
 
-<div align="center"> - 🔭 I’m currently working on ... Web Dev. Techs.
-- 🌱 I’m currently learning ... JavaScript, Node.js, React.js
-- 📫 How to reach me: ... udk97@hotmail.com
+<div align="center"> <ul> 🔭 I’m currently working on ... Web Dev. Techs </ul>
+<ul> 🌱 I’m currently learning ... JavaScript, Node.js, React.js </ul>
+<ul> 📫 How to reach me: ... udk97@hotmail.com </ul>
 </div>
 
 <hr>

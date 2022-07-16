@@ -1,4 +1,4 @@
-### Hello there 👋
+<div align = "center"> ### Hello there 👋 </div>
   <div align="center">
   <img  src="https://media.giphy.com/media/Cu0Iqwal4cPyU/giphy.gif" />
   </div>

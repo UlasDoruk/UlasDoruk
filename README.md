@@ -20,10 +20,9 @@
 <!-- </div> -->
 
 <br>
-<div align="center">
-  [Ÿ HŸPE]: https://yhype.me
-  [GitHub Profile Views Counter]: https://github.com/UlasDoruk/github-profile-views-counter
-</div>
+<a href="https://github.com/UlasDoruk/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=UlasDoruk&style=for-the-badge">
+</a>
 <br>
 
 <div  align="center">

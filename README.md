@@ -5,16 +5,20 @@
 
 <hr>
 
-<div align="center"> <ul> 🔭 I’m currently working on ... Web Dev. Techs </ul>
-<ul> 🌱 I’m currently learning ... JavaScript, Node.js, React.js </ul>
+<div align="center"> 
+<ul> 🔭 I’m currently working on ... Web Dev. Techs </ul>
+<ul> 🌱 I’m currently learning ... JavaScript, React.js, Java </ul>
 <ul> 📫 How to reach me: ... udk97@hotmail.com </ul>
 </div>
 
 <hr>
+
 <br>
+
 <div align = "center">
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
 </div>
+
 <br>
 
 <div  align="center">

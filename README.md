@@ -38,6 +38,4 @@
 <br> 
 </div>
 
-<div align = "center">
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
- </div>

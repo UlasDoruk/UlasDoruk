@@ -21,7 +21,7 @@
 
 <br>
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=UlasDoruk&label=PROFILE+VIEWS)
+  [GitHub Profile Views Counter]: https://github.com/UlasDoruk/github-profile-views-counter
 </div>
 <br>
 

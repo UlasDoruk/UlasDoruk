@@ -20,9 +20,11 @@
 <!-- </div> -->
 
 <br>
-<a align="center" href="https://github.com/UlasDoruk/github-profile-views-counter">
+<div  align="center">
+<a  href="https://github.com/UlasDoruk/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=UlasDoruk&style=for-the-badge">
 </a>
+ </div>
 <br>
 
 <div  align="center">

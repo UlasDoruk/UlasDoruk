@@ -13,11 +13,7 @@
 
 <hr>
 
-<br>
-
-<!-- <div align = "center"> -->
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
-<!-- </div> -->
+<br> 
 
 <br>
 <div  align="center">
@@ -41,3 +37,7 @@
 <img align="center" alt="React" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
 <br> 
 </div>
+
+<div align = "center">
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
+ </div>

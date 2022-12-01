@@ -5,13 +5,6 @@
 
 <hr>
 
-
-<!--
-**UlasDoruk/UlasDoruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 <div align="center"> <ul> 🔭 I’m currently working on ... Web Dev. Techs </ul>
 <ul> 🌱 I’m currently learning ... JavaScript, Node.js, React.js </ul>
 <ul> 📫 How to reach me: ... udk97@hotmail.com </ul>
@@ -21,7 +14,7 @@ Here are some ideas to get you started:
 <br>
 <div align = "center">
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=UlasDoruk&show_icons=true&theme=radical)
-</div
+</div>
 <br>
 
 <div  align="center">

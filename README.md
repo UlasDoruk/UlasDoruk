@@ -35,6 +35,8 @@
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 <img align="center" alt="React" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
+<img align="center" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+
 <br> 
 </div>
 

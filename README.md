@@ -36,7 +36,7 @@
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 <img align="center" alt="React" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
 <img align="center" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-
+<img align="center" alt="Eclipse" width="26px" src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" />
 <br> 
 </div>
 

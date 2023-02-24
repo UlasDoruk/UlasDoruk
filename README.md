@@ -7,7 +7,7 @@
 
 <div align="center"> 
 <ul> 🔭 I’m currently working on ... Web Dev. Techs </ul>
-<ul> 🌱 I’m currently learning ... JavaScript, React.js, Java </ul>
+<ul> 🌱 I’m currently learning ... JavaScript, React.js, Java, Tailwind, Redux, TypeScript </ul>
 <ul> 📫 How to reach me: ... udk97@hotmail.com </ul>
 </div>
 
@@ -35,6 +35,7 @@
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/nodejs/nodejs.png" />
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 <img align="center" alt="React" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
+<img align="center" alt="Tailwind" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/tailwind_icon_131947.png" />
 <img align="center" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="center" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <br> 

@@ -37,6 +37,7 @@
 <img align="center" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" />
 <img align="center" alt="React" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnickroberts.ninja%2Fwp-content%2Fuploads%2F2017%2F07%2Freact.jpg&f=1&nofb=1" />
 <img align="center" alt="Tailwind" width="30px" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" />
+ <img align="center" alt="MaterialUI" width="30px" src="https://v4.mui.com/static/logo.png" />
 <img align="center" alt="Eclipse" width="30px" src="https://user-images.githubusercontent.com/11943860/46922529-b28cdc80-cfe0-11e8-9aec-0091161d3599.png" />
 <img align="center" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <br> 
